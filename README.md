@@ -22,21 +22,25 @@ Before you begin, ensure you have the following prerequisites installed:
 - Ganache: [Download](https://www.trufflesuite.com/ganache)
 
 # Installation 
-1. Clone the repository to your local machine
 
-2.Navigate to the project directory:
+Clone the repository to your local machine
+
+Navigate to the project directory:
    cd blockchain-app
    
-3.Install project dependencies:
+Install project dependencies:
   npm install
   
-# Running the App 
-4. Start Ganache:
+# Running the App
+
+  Start Ganache:
   ganache-cli
-5. Compile and migrate the smart contracts:
+
+Compile and migrate the smart contracts:
   truffle compile
   truffle migrate
-6. Run the front-end application:
+
+# Run the front-end application
   npm start
   Access the app in your web browser at http://localhost:3000.
 
