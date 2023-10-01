@@ -41,8 +41,8 @@ Compile and migrate the smart contracts:
   truffle migrate
 
 # Run the front-end application
-  npm start
-  Access the app in your web browser at http://localhost:3000.
+npm start
+Access the app in your web browser at http://localhost:3000.
 
 # Support 
 We welcome contributions and feedback to improve the project further. For any questions or issues, please contact:
